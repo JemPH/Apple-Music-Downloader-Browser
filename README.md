@@ -14,7 +14,7 @@ Apple-Music-Downloader-Browser is a browser extension that allows you to downloa
 - **Music Videos** (coming soon): Download your favorite music videos from Apple Music.
 
 ## Installation
-   Install the [script](https://raw.githubusercontent.com/JemPH/Apple-Music-Downloader-Browser/main/apple-music-downloader.js) in your userscript manager.
+   Install the [script](https://raw.githubusercontent.com/JemPH/Apple-Music-Downloader-Browser/main/apple-music-downloader.js) in your userscript manager. The script requires subscription in order to download files.
 
 ## Usage
   Just activate and install the script in Tampermonkey. The script should automatically runs (shown in the image preview above). Refresh the page if it doesn't work.
