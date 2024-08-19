@@ -13,8 +13,6 @@ Apple-Music-Downloader-Browser is a browser extension that allows you to downloa
 - **Dolby Atmos** (coming soon): Immersive sound experience with spatial audio.
 - **Music Videos** (coming soon): Download your favorite music videos from Apple Music.
 
-(https://raw.githubusercontent.com/JemPH/Apple-Music-Downloader-Browser/main/apple-music-downloader.js)
-
 ## Installation
    Install the [script](https://raw.githubusercontent.com/JemPH/Apple-Music-Downloader-Browser/main/apple-music-downloader.user.js) in your userscript manager. The script requires subscription in order to download files.
 
