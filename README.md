@@ -18,3 +18,5 @@ Apple-Music-Downloader-Browser is a browser extension that allows you to downloa
 
 ## Usage
   Just activate and install the script in Tampermonkey. The script should automatically runs (shown in the image preview above). Refresh the page if it doesn't work.
+
+[![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/O4O3D65S3)
