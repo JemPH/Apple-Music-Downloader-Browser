@@ -3,6 +3,7 @@
 Apple-Music-Downloader-Browser is a browser extension that allows you to download your favorite Apple Music content directly from the web interface.
 
 ![image](https://raw.githubusercontent.com/JemPH/Apple-Music-Downloader-Browser/main/assets/preview-1.png)
+![image](https://raw.githubusercontent.com/JemPH/Apple-Music-Downloader-Browser/main/assets/preview-2.png)
 ![image](https://raw.githubusercontent.com/JemPH/Apple-Music-Downloader-Browser/main/assets/preview-3.png)
 
 ## Features
