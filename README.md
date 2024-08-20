@@ -18,7 +18,7 @@
       src="https://img.shields.io/badge/PH-PHCORNER-red.svg?style=for-the-badge&logo=&logoColor=white&labelColor=000000&logoWidth=20">
   </a>
 </p>
-https://phcorner.net/members/jemph.1522390/
+
 <p align="left">
   Apple-Music-Downloader-Browser is a browser extension that allows you to download your favorite Apple Music content directly from the web interface.
 </p>
