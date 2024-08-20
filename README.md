@@ -19,7 +19,7 @@
   </a>
 </p>
 
-<p align="left">
+<p align="center">
   Apple-Music-Downloader-Browser is a browser extension that allows you to download your favorite Apple Music content directly from the web interface.
 </p>
 
