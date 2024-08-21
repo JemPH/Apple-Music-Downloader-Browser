@@ -13,7 +13,7 @@
     <img
       src="https://img.shields.io/badge/TAMPERMONKEY-grey.svg?style=for-the-badge&logo=tampermonkey&logoColor=white&labelColor=000000&logoWidth=20">
    </a>
-  <a href="https://raw.githubusercontent.com/JemPH/Apple-Music-Downloader-Browser/main/apple-music-downloader.user.js"> 
+  <a href="https://phcorner.net/members/jemph.1522390/"> 
     <img
       src="https://img.shields.io/badge/PH-PHCORNER-red.svg?style=for-the-badge&logo=&logoColor=white&labelColor=000000&logoWidth=20">
   </a>
