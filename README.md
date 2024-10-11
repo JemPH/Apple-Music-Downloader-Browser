@@ -38,10 +38,10 @@
 - **Email and Password** (planned): Future updates will include support for using email and password credentials for accessing ALAC and Dolby Atmos features. This feature is not yet implemented but is planned for future updates.
 
 ## Installation
-   Install the [script](https://raw.githubusercontent.com/JemPH/Apple-Music-Downloader-Browser/main/apple-music-downloader.user.js) in your userscript manager. The script requires subscription in order to download files.
+   Install the [script](https://raw.githubusercontent.com/JemPH/Apple-Music-Downloader-Browser/main/apple-music-downloader.user.js) in your userscript manager. The script requires subscription in order to download files. (Recommended Browser: Microsoft Edge [PC], Kiwi Browser [Mobile])
 
 ## Usage
-  Just activate and install the script in Tampermonkey. The script should automatically run (as shown in the image preview above). Refresh the page if it doesn't work.
+  Just activate and install the script in Tampermonkey. The script should automatically run (as shown in the image preview above). Refresh the page if it doesn't work. (Enable Developer Mode)
 
 ### Usage of `media-user-token`
 To operate effectively, our extension requires access to certain resources on `music.apple.com`. Specifically, we use the `media-user-token` to authenticate and interact with Apple Music's web interface. Here’s how we handle it:
